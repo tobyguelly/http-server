@@ -1,0 +1,6 @@
+# ninja log v5
+1	35	1642154780522042049	CMakeFiles/http_server.dir/utils.c.o	e88196f70f4a8f60
+1	38	1642154780524760627	CMakeFiles/http_server.dir/http.c.o	d66f14ad83f4d04e
+1	38	1642154780525554266	CMakeFiles/http_server.dir/tcp.c.o	fb59d39cbdb2f749
+1	44	1642154780529466193	CMakeFiles/http_server.dir/main.c.o	9989df5f168dd48e
+44	84	1642154780571579274	http_server	8021b4a072f7932
